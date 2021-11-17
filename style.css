@@ -1,0 +1,58 @@
+
+body {
+    background: #CCCCCC;
+
+    background-image: url(banner.jpg);
+            background-attachment:fixed;
+            background-size: 100%;
+            background-repeat: no-repeat;
+            background-color: #000; 
+
+            color: white;
+            font-family: 'Lagosta', cursiva, 'Fjalla One', sa ns-serif;
+            font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    color: pink;
+
+}
+
+p{
+    text-align: center;
+    color: beige;
+    height: 10px;
+
+}
+
+em strong{
+    color: pink;
+
+}
+
+iframe {
+   display: block;
+   margin: 0 auto;
+}
+
+#brasil{
+    font-size: 20px;
+    color: beige;
+
+}
+
+#SP{
+
+    font-size: 20px;
+}
+
+
+
+#insta{
+    width: 5%
+}
+
+#youtube{
+    width: 5%
+}
